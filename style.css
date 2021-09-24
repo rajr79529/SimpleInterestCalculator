@@ -1,0 +1,21 @@
+.fieldSet{
+    border-radius: 25px;
+    border: 2px solid #73AD21;
+    padding: 20px;
+    width: 600px;
+    text-align: center;
+    margin: auto;
+    margin-top: auto;
+    background-color: white;
+
+    }
+    #heading{
+        color:grey;
+        font-size:xx-large;
+    }
+    .main{
+        /* background-color: black; */
+    }
+    body{
+        background-color: black;
+    }
